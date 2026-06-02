@@ -1,1 +1,1 @@
-# CS229-notes
+This is my personal notes for the CS229 course.
